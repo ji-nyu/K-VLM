@@ -1,4 +1,4 @@
-# k_vlm
+# K-VLM
 VILA 기반 실시간 웹캠 VLM 데모
 
 이 리포지토리는 NVILA 계열 한국어 모델을 이용해 웹캠 영상을 실시간으로 받아 질문에 답하는 VLM(Webcam Vision-Language Model) 데모 스크립트를 포함한다.
