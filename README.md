@@ -1,7 +1,5 @@
 # K-VLM
 
-[영상 보기](./review.mp4)
-
 Real-Time Webcam Vision-Language Model Demo (VILA-based)
 
 This repository contains a real-time webcam VLM (Vision-Language Model) demo script built on the NVILA Korean model family.
