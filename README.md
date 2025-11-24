@@ -38,7 +38,7 @@ Conda environment specification including:
 
     And other dependencies required for VLM execution
 
-lk-vlm
+k-vlm.py
 
 Main demo script that:
 
@@ -91,7 +91,7 @@ Place inside the same LoRA checkpoint directory:
 
 3. Update Paths in the Script
 
-Edit the top of lk-vlm:
+Edit the top of k-vlm.py:
 
 BASE_MODEL     = "/path/to/nvila_ko_chat_vector_1.5B"
 CHECKPOINT_DIR = "/path/to/nvila_ko_vlm_lora_20/checkpoint-epoch3"
@@ -99,7 +99,7 @@ MMPROJECTOR_PT = os.path.join(CHECKPOINT_DIR, "mmprojector.pt")
 
 Running the Demo
 
-python lk-vlm
+python k-vlm.py
 
 Runtime Behavior
 
