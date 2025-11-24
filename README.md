@@ -165,10 +165,10 @@ class CustomMMProjector(nn.Module):
     Frame capture and inference run on separate threads to minimize latency
 
 Tips & Troubleshooting
-⚠️ Slow first launch
+Slow first launch
 
 Model, LoRA, and projector loading may take time initially.
-⚠️ GPU memory issues?
+GPU memory issues?
 
 Try:
 
