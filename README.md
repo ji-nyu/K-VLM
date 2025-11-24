@@ -1,6 +1,4 @@
-나에게
-이 메일은 영어로 작성된 것 같습니다
-K-VLM
+# K-VLM
 
 Real-Time Webcam Vision-Language Model Demo (VILA-based)
 
